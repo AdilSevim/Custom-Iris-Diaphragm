@@ -1,4 +1,4 @@
-# Motorized Full-Circle Iris Diaphragm
+# Motorized Full Circle Iris Diaphragm
 
 Arduino-driven, full-circle **iris diaphragm** actuated by an SG90 micro servo.  
 **Built in August 2024.** This repository includes firmware, 3D-printable parts, wiring notes, assembly steps, and calibration guidance.
