@@ -129,7 +129,7 @@ Source files are under `hardware/3d/`:
 
 Example views:
 
-![Exploded view / parts layout](docs/images/image6.png)
+![Exploded view / parts layout](docs/image6.png)
 
 
 
