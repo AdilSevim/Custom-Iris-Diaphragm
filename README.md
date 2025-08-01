@@ -130,7 +130,7 @@ Source files are under `hardware/3d/`:
 Example views:
 
 <p align="center">
-  <img src="docs/images/image3.png" alt="Exploded view / parts" width="60%"><br>
+  <img src="docs/image3.png" alt="Exploded view / parts" width="60%"><br>
   <em>Exploded view / parts layout</em>
 </p>
 
