@@ -367,7 +367,7 @@ Thanks to the open hardware/software community for inspiration and best practice
 
 ---
 
-Contact
+## Contact
 
 **Adil Sevim** — Developer  
 - GitHub: https://github.com/<AdilSevim>  
