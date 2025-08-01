@@ -129,9 +129,7 @@ Source files are under `hardware/3d/`:
 
 Example views:
 
-![Exploded view / parts layout](Custom-Iris-Diaphragm/docs/image6.png)
-
-
+image-5
 
 ---
 
