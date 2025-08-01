@@ -1,4 +1,4 @@
-# Motorized Full Circle Iris Diaphragm
+# Motorized Full-Circle Iris Diaphragm
 
 Arduino-driven, full-circle **iris diaphragm** actuated by an SG90 micro servo.  
 **Built in August 2024.** This repository includes firmware, 3D-printable parts, wiring notes, assembly steps, and calibration guidance.
@@ -36,7 +36,7 @@ Arduino-driven, full-circle **iris diaphragm** actuated by an SG90 micro servo.
 This is a compact, motorized **iris diaphragm** designed for phones/cameras, lab setups, and demos where **variable aperture** and smooth actuation are needed. The mechanism provides **full-circle blade coverage** and is driven by an **Arduino** controlling an **SG90 micro servo**. Two firmware examples are provided: a 45°–135° **sweep demo** and a **potentiometer-controlled** mode within the same safe angle range.
 
 <p align="center">
-  <img src="docs/images/image6.png" alt="Assembled front view" width="60%"><br>
+  <img src="docs/image6.png" alt="Assembled front view" width="60%"><br>
   <em>Assembled unit (example photo)</em>
 </p>
 
@@ -81,7 +81,7 @@ This is a compact, motorized **iris diaphragm** designed for phones/cameras, lab
       ├─ image5.png
       ├─ image6.png
       └─ image7.png
-
+```
 ---
 
 ## Bill of Materials (BOM)
@@ -129,7 +129,10 @@ Source files are under `hardware/3d/`:
 
 Example views:
 
-image-5
+<p align="center">
+  <img src="docs/images/image3.png" alt="Exploded view / parts" width="60%"><br>
+  <em>Exploded view / parts layout</em>
+</p>
 
 ---
 
