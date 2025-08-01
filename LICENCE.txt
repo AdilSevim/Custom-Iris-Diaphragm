@@ -1,0 +1,73 @@
+Motorized Full-Circle Iris Diaphragm — Unified License (NC/ND)
+Copyright (c) 2024–2025 Adil Sevim
+All rights reserved.
+
+SPDX-License-Identifier: LicenseRef-ADIL-NCND-1.0
+
+0) Scope
+This License covers all contents of this repository, including but not limited to:
+software/firmware source code, 3D models, CAD files, mechanical drawings, images,
+renders, assembly guides, and documentation (collectively, the “Materials”).
+
+1) Grant of License (Non-Commercial, No-Derivatives)
+Subject to your full compliance with this License, you are granted a personal,
+non-transferable, non-sublicensable, revocable, and non-exclusive license to:
+  a) download, view, and use the Materials for non-commercial, personal,
+     educational, or evaluation purposes only; and
+  b) assemble a device from the Materials for non-commercial, personal,
+     educational, or evaluation purposes only.
+
+2) Attribution
+When sharing unmodified copies as permitted under Section 4, or when publicly
+showing results derived from *unmodified* Materials (e.g., demo videos of the
+unmodified build), you must provide appropriate credit:
+  “© 2024–2025 Adil Sevim — Motorized Full-Circle Iris Diaphragm (NC/ND).
+   Used under license.”
+
+3) Prohibited Uses
+You shall NOT, in whole or in part:
+  - use the Materials for any commercial purpose, internal business use,
+    or any activity seeking or resulting in monetary or strategic gain;
+  - modify, adapt, translate, reverse engineer, or create derivative works
+    from the Materials (including remixing 3D parts or altering code);
+  - distribute, sell, rent, lease, or sublicense modified Materials;
+  - remove or alter copyright, attribution, or license notices.
+
+4) Limited Redistribution of Unmodified Copies
+You may share *verbatim, unmodified* copies of the repository or any file(s)
+from it solely for non-commercial purposes, provided that:
+  - this License file remains attached and intact; and
+  - the attribution in Section 2 is included wherever reasonably possible.
+
+5) Patent Notice (No Patent License)
+The design and/or methods may be protected by patents and/or pending patent
+applications. This License DOES NOT grant any patent rights, whether expressly,
+by implication, estoppel, or otherwise. Practicing any claimed invention may
+require a separate written patent license from the rightsholder.
+
+6) Ownership
+All rights, title, and interest in and to the Materials remain with the
+rightsholder. No rights are granted except as explicitly stated herein.
+
+7) Warranty Disclaimer
+THE MATERIALS ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+8) Limitation of Liability
+IN NO EVENT SHALL THE RIGHTSHOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER DEALINGS IN
+THE MATERIALS.
+
+9) Termination
+This License terminates automatically upon any breach by you. Upon termination,
+you must cease all use and delete all copies of the Materials. Sections 5–8
+survive termination.
+
+10) Governing Law
+This License shall be governed by the laws applicable in the rightsholder’s
+jurisdiction, without regard to conflict-of-law principles.
+
+Notice: Original build date of the device: August 2024.
+Contact for commercial or patent licensing inquiries: Adil Sevim.

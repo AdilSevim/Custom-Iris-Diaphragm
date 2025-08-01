@@ -1,0 +1,57 @@
+Copyright (c) 2024–2025 Adil Sevim
+All rights reserved.
+
+Project: Motorized Full-Circle Iris Diaphragm (hardware + firmware + docs)
+This repository contains software (the “Software”) and may include hardware
+design files and documentation (the “Assets”). The Software is licensed under
+the terms below. The 3D models and non-code assets are licensed separately
+(see LICENSE-3D).
+
+1) Grant of License (Non-Commercial, No-Derivatives)
+Subject to your full compliance with this License, you are granted a personal,
+non-transferable, non-sublicensable, revocable, and non-exclusive license to
+download and run the Software solely for non-commercial, personal, educational,
+or evaluation purposes. Any use that aims for or results in monetary gain,
+commercial advantage, or internal business use is prohibited.
+
+2) Restrictions
+You shall NOT:
+- modify, adapt, translate, create derivative works of, or reverse engineer the
+  Software (except to the limited extent permitted by applicable law);
+- redistribute, publish, sell, rent, lease, sublicense, or make the Software
+  available to third parties in any form;
+- use the Software in any product, service, or research that is or may become
+  commercial, or for internal business operations;
+- remove or alter copyright, attribution, or license notices.
+
+3) Patent Notice (No Patent License)
+The Project may be protected by one or more patents and/or pending patent
+applications. NO patent rights are granted, whether expressly, by implication,
+estoppel, or otherwise. Any implementation that practices claimed inventions
+requires a separate written patent license from the rightsholder.
+
+4) Ownership
+All rights, title, and interest in and to the Software remain with the author/
+rightsholder. No rights are granted except as explicitly stated herein.
+
+5) Warranty Disclaimer
+THE SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+6) Limitation of Liability
+IN NO EVENT SHALL THE AUTHOR/RIGHTSHOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+7) Termination
+This License terminates automatically if you breach any term. Upon termination,
+you must stop using and delete all copies of the Software. Sections 3–6 survive
+termination.
+
+8) Governing Law
+This License shall be governed by the laws applicable in the rightsholder’s
+jurisdiction, without regard to conflict-of-law principles.
+
+SPDX-License-Identifier: LicenseRef-Proprietary-NCND
